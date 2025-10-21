@@ -17,5 +17,5 @@ namespace Safiya.Hossam._0523049.Models
         public List<Player>? players { get; set; }
         public List<Competition>? competitions { get; set; }
     }
-
+// pkdsn  jn 
 }
